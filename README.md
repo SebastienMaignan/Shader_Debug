@@ -1,5 +1,5 @@
 # Shader_Debugger
-A small application to customize and debug opengl shaders.
+A small application to customize and debug opengl shaders (requires opengl 4.6).
 It is based on Qt5, Imgui and ideas from shadertoy.
 The 2 main features are:
 - Add GUI dials and sliders to control uniforms in the shader. The control is created when you add a specific comment to the uniform line in your shader and save it.
